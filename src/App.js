@@ -143,17 +143,17 @@ const App = () => {
               </h1>
                 <label
                   htmlFor=""
-                  className="text-gray-600 font-work-sans text-base font-normal text-center"
+                  className="text-gray-600 font-work-sans text-base font-normal text-center mb-8"
                 >
                   Please sign in to your account
                 </label>
                 <PhoneInput country={"in"} value={ph} onChange={setPh} className=" rounded border border-yellow-600" />
-                <p className="text-gray-600 text-center font-work-sans text-xs font-normal">
+                <p className="text-gray-600 text-center font-work-sans text-xs font-normal mt-5">
                 We will send you a one time SMS message.Charges may apply.
                 </p>
                 <button
                   onClick={onSignup}
-                  className="rounded-full bg-yellow-400 w-full flex gap-1 items-center justify-center py-2.5 text-white text-center font-work-sans text-base font-normal"
+                  className="rounded-full bg-yellow-400 w-full flex gap-1 items-center justify-center py-2.5 text-white text-center font-work-sans text-base font-normal mt-10"
                 >
                   {loading && (
                     <CgSpinner size={20} className="mt-1 animate-spin" />
