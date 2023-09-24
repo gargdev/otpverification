@@ -89,6 +89,6 @@ Simply copy and paste this code into your README.md file, replacing "Your React.
 
 
 ##Snapshots
-![SignIn Image](/snapshot/signin.png)
-![OTP Image](/snapshot/otp.png)
-![Success Image](/snapshot/success.png)
+![SignIn Image](https://github.com/gargdev/otpverification/blob/main/snapshots/signin.png)
+![OTP Image](https://github.com/gargdev/otpverification/blob/main/snapshots/otp.png)
+![Success Image](https://github.com/gargdev/otpverification/blob/main/snapshots/success.png)
