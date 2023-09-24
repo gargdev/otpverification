@@ -80,8 +80,15 @@ Explain how others can contribute to your project. Include guidelines for code s
 
 Specify the license under which your project is distributed. Mention if your project uses third-party libraries with different licenses.
 ```
+
+
+Simply copy and paste this code into your README.md file, replacing "Your React.js Project Name," URLs, and descriptions with your actual project information. Make sure to keep the README file updated as your project evolves to provide accurate and helpful information to users and contributors.
+
+
+
+
+
+##Snapshots
 ![SignIn Image](snapshot/signin.png)
 ![OTP Image](snapshot/otp.png)
 ![Success Image](snapshot/success.png)
-
-Simply copy and paste this code into your README.md file, replacing "Your React.js Project Name," URLs, and descriptions with your actual project information. Make sure to keep the README file updated as your project evolves to provide accurate and helpful information to users and contributors.
