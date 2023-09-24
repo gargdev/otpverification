@@ -32,7 +32,7 @@ Before you begin, make sure you have the following software installed on your ma
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-react-project.git
+   git clone https://github.com/gargdev/otpverification.git
    ```
 
 2. Change into the project directory:
