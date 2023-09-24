@@ -91,7 +91,9 @@ Simply copy and paste this code into your README.md file, replacing "Your React.
 
 # App Demo
 <img src="snapshots/otpverification.mp4" width="216" height="384" align="center"/>
+```
 Kindly download the video to watch the app demo
+```
 
 
 
