@@ -89,6 +89,6 @@ Simply copy and paste this code into your README.md file, replacing "Your React.
 
 
 ##Snapshots
-![SignIn Image](snapshot/signin.png)
-![OTP Image](snapshot/otp.png)
-![Success Image](snapshot/success.png)
+![SignIn Image](/snapshot/signin.png)
+![OTP Image](/snapshot/otp.png)
+![Success Image](/snapshot/success.png)
