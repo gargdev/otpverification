@@ -88,8 +88,8 @@ Simply copy and paste this code into your README.md file, replacing "Your React.
 <img src="https://github.com/gargdev/otpverification/blob/main/snapshots/otp.png" width="216" height="384" align="center"/>
 <img src="snapshots/success.png" width="216" height="384" align="center"/>
 ```
-#App Demo
+##App Demo
+<img src="snapshots/otpverification.mp4" width="216" height="384" align="center"/>
 
-https://github.com/gargdev/otpverification/assets/75595666/afbad34f-9de0-4960-a9f0-2ad4a7fc217d
 
 
