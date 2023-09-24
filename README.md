@@ -84,11 +84,12 @@ Simply copy and paste this code into your README.md file, replacing "Your React.
 ```
 
 # Screenshots
+```
 <img src="snapshots/signin.png" width="216" height="384" align="left"/>
 <img src="https://github.com/gargdev/otpverification/blob/main/snapshots/otp.png" width="216" height="384" align="center"/>
 <img src="snapshots/success.png" width="216" height="384" align="center"/>
 ```
-##App Demo
+# App Demo
 <img src="snapshots/otpverification.mp4" width="216" height="384" align="center"/>
 
 
