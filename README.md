@@ -1,7 +1,7 @@
-Certainly! Here's the code you can paste into your README.md file for your React.js project using Node.js and npm:
+
 
 ```markdown
-# Your React.js Project Name
+# OTP Verification
 
 A brief description of your React.js project.
 
