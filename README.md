@@ -80,15 +80,11 @@ Explain how others can contribute to your project. Include guidelines for code s
 
 Specify the license under which your project is distributed. Mention if your project uses third-party libraries with different licenses.
 ```
-
-
 Simply copy and paste this code into your README.md file, replacing "Your React.js Project Name," URLs, and descriptions with your actual project information. Make sure to keep the README file updated as your project evolves to provide accurate and helpful information to users and contributors.
+```
 
+# Screenshots
+<img src="snapshots/signin.png" width="216" height="384" align="left"/>
+<img src="https://github.com/gargdev/otpverification/blob/main/snapshots/otp.png" width="216" height="384" align="center"/>
+<img src="snapshots/success.png" width="216" height="384" align="center"/>
 
-
-
-
-##Snapshots
-![SignIn Image](https://github.com/gargdev/otpverification/blob/main/snapshots/signin.png)
-![OTP Image](https://github.com/gargdev/otpverification/blob/main/snapshots/otp.png)
-![Success Image](https://github.com/gargdev/otpverification/blob/main/snapshots/success.png)
