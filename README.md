@@ -1,7 +1,7 @@
 
 
-```markdown
-# OTP Verification
+
+## OTP Verification
 
 A brief description of your React.js project.
 
