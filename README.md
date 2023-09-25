@@ -3,6 +3,9 @@
 
 ## OTP Verification
 
+## Live Project Link
+https://admitkardotpverification.netlify.app/
+
 A brief description of your React.js project.
 
 ## Table of Contents
