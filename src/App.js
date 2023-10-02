@@ -1,4 +1,3 @@
-import { BsFillShieldLockFill, BsTelephoneFill } from "react-icons/bs";
 import { CgSpinner } from "react-icons/cg";
 import logo from "./assets/AK_logo.png"
 import otpimg from "./assets/undraw_confirmed_81ex.png"
@@ -121,7 +120,7 @@ const App = () => {
                   autoFocus={true}
                   className="opt-container"
                 ></OtpInput>
-                <p className="text-gray-600 font-work-sans text-base font-normal text-center">Didn’t receive the code?<span className="text-yellow-400 font-work-sans text-base font-normal">&nbsp; &nbsp;<a href="" onClick={onSignup}>Resend</a></span></p>
+                <p className="text-gray-600 font-work-sans text-base font-normal text-center">Didn’t receive the code?<span className="text-yellow-400 font-work-sans text-base font-normal">&nbsp; &nbsp;<a href="/" onClick={onSignup}>Resend</a></span></p>
                 <button
                   onClick={onOTPVerify}
                   className="rounded-full bg-yellow-400 w-full flex gap-1 items-center justify-center py-2.5 text-white text-center font-work-sans text-base font-normal"
